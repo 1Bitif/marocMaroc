@@ -1,0 +1,20 @@
+# Genaral 
+.env
+node_modules/
+.DS_Store
+
+# backend
+
+/backend/node_modules/
+/backend/.env
+/backend/build/
+/backend/dist/
+
+# Frontend
+
+/frontend/node_modules/
+/frontend/.env
+/frontend/build/
+/frontend/dist/
+
+
